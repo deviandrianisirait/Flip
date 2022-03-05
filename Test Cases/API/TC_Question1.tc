@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Question1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cdd2c9d-6cc6-45e5-82cb-25a75b1cb163</testCaseGuid>
+   <variable>
+      <defaultValue>20</defaultValue>
+      <description></description>
+      <id>b793d88f-ee00-4418-bc24-e2fb39f7dbb9</id>
+      <masked>false</masked>
+      <name>total</name>
+   </variable>
+</TestCaseEntity>

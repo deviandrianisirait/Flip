@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Question1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>877e8fa3-dead-4c48-8920-356e231cf15b</testCaseGuid>
+   <variable>
+      <defaultValue>'Flip mendapatkan pemasukan dari layanan '</defaultValue>
+      <description></description>
+      <id>6ec32bdc-d527-4cfc-919c-ff50009d112e</id>
+      <masked>false</masked>
+      <name>text1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Flip+'</defaultValue>
+      <description></description>
+      <id>ad6a333f-adf2-4cc5-a50c-97022ede80e2</id>
+      <masked>false</masked>
+      <name>text2</name>
+   </variable>
+   <variable>
+      <defaultValue>', '</defaultValue>
+      <description></description>
+      <id>5cd413a9-d4af-4754-89af-f56c83c8fafc</id>
+      <masked>false</masked>
+      <name>text3</name>
+   </variable>
+   <variable>
+      <defaultValue>'Flip for Business'</defaultValue>
+      <description></description>
+      <id>ade5ae0f-ee45-4227-97d4-0161d869d3de</id>
+      <masked>false</masked>
+      <name>text4</name>
+   </variable>
+   <variable>
+      <defaultValue>', serta penjualan '</defaultValue>
+      <description></description>
+      <id>862c6344-32a7-4315-afab-3a34284cdafd</id>
+      <masked>false</masked>
+      <name>text5</name>
+   </variable>
+   <variable>
+      <defaultValue>'produk digital'</defaultValue>
+      <description></description>
+      <id>56ada8fb-e901-479a-8ca1-baddcc683b92</id>
+      <masked>false</masked>
+      <name>text6</name>
+   </variable>
+   <variable>
+      <defaultValue>' (pulsa, paket data, token listrik).'</defaultValue>
+      <description></description>
+      <id>3b6a3ae0-02f4-4966-8f26-7c39f422623c</id>
+      <masked>false</masked>
+      <name>text7</name>
+   </variable>
+</TestCaseEntity>

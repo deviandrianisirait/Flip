@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Question2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a13655cd-ffbc-4795-b366-8b063d087088</testCaseGuid>
+   <variable>
+      <defaultValue>'inactive'</defaultValue>
+      <description></description>
+      <id>d8e74ea8-759a-4788-8a2f-72edcd383570</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>
